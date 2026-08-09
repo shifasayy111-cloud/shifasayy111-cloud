@@ -1,0 +1,45 @@
+ # 👋 Hi, I'm Shifa Sayyed
+
+### 🎓 BCA Student 
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Currently pursuing BCA
+- 💻 Interested in Web Development
+- 🌱 Currently learning HTML, CSS, JavaScript & Python
+- 🗄️ Learning DBMS & SQL
+- 🚀 Building projects to improve my coding skills
+- 🎯 Focused on becoming a skilled developer
+
+---
+
+## 🛠️ Tech Stack
+
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
+- 🐍 Python
+- 🗄️ SQL
+- 🔧 Git & GitHub
+- 💻 VS Code
+
+---
+
+## 🎯 Current Focus
+
+- 🌐 Frontend Development
+- 🐍 Python Programming
+- 🗄️ DBMS & SQL
+- 🚀 Building Projects
+- 🔥 Daily GitHub Practice
+
+---
+
+## 🌱 My Goal
+
+To continuously learn, build real-world projects and grow as a developer.
+
+---
+
+### ⭐ Thanks for visiting my profile!
