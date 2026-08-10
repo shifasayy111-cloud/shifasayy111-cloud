@@ -36,10 +36,4 @@
 
 ---
 
-## 🌱 My Goal
-
-To continuously learn, build real-world projects and grow as a developer.
-
----
-
 ### ⭐ Thanks for visiting my profile!
