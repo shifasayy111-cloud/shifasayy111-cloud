@@ -28,7 +28,6 @@
 
 ## 🎯 Current Focus
 
-- 🌐 Frontend Development
 - 🐍 Python Programming
 - 🗄️ DBMS & SQL
 - 🚀 Building Projects
