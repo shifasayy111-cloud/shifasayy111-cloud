@@ -6,7 +6,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 Currently pursuing BCA
-- 💻 Interested in Softward Development
+- 💻 Interested in Softward Developer
 - 🌱 Currently learning HTML, CSS, JavaScript & Python
 - 🗄️ Learning DBMS & SQL
 - 🚀 Building projects to improve my coding skills
